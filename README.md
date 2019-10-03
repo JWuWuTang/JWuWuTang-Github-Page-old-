@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Resources
 
-You can use the [editor on GitHub](https://github.com/JWuWuTang/JWuWuTang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. [Github Guides](https://guides.github.com)
+2. [Finxter Python Training](https://app.finxter.com/learn/computer/science/)
+3. [Microsoft Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/?WT.mc_id=python-c9-niner)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
